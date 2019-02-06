@@ -2,10 +2,6 @@
  */
 package frontendapp;
 
-/**
- *
- * @author Clases
- */
 public class FrontEndApp {
 
     /**
